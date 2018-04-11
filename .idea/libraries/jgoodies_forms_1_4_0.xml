@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jgoodies-forms-1.4.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Extra stuffs/jgoodies/jgoodies-forms-1.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Extra stuffs/jgoodies/jgoodies-common-1.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
